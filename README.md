@@ -13,4 +13,4 @@ treatment.
     :alt: Trellis Graphical Abstract
     :height: 300
     
-A short how-to tutorial on Trellis is available [here](https://github.com/MariaRamosZ/Trellis_how_to/), with associated notebook hosted on Kaggle [here](https://www.kaggle.com/code/mariaramosz/trellis).
+A short [how-to tutorial](https://github.com/MariaRamosZ/Trellis_how_to/) on Trellis is available, with associated notebook hosted on Kaggle [here](https://www.kaggle.com/code/mariaramosz/trellis).
