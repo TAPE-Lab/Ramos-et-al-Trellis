@@ -8,9 +8,5 @@ under different treatment conditions while normalizing for multiple controls.
 Paired Trellis implements a Kantorovich-Rubenstein distance with tree ground
 distance allowing for a normalization step against a specified control per
 treatment. 
-
-.. image:: figures/abstract.png
-    :alt: Trellis Graphical Abstract
-    :height: 300
     
 A short [how-to tutorial](https://github.com/MariaRamosZ/Trellis_how_to/) on Trellis is available, with associated notebook hosted on Kaggle [here](https://www.kaggle.com/code/mariaramosz/trellis).
